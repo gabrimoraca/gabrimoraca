@@ -28,7 +28,7 @@
 
 - [Transcranial direct current stimulation suggests not improving postural control during adapted tandem position in people with Parkinson's disease: A pilot study](https://pubmed.ncbi.nlm.nih.gov/37453515/)
 
-- [Center of pressure responses to unpredictable external perturbations indicate low accuracy in predicting fall risk in people with Parkinson?s disease](https://pubmed.ncbi.nlm.nih.gov/33561905/)
+- [Center of pressure responses to unpredictable external perturbations indicate low accuracy in predicting fall risk in people with Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/33561905/)
 
 - [The effects of social isolation on gait parameters of older people with Parkinson's disease](https://socibracom.com/bjmb/index.php/bjmb/article/view/367)
 
